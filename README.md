@@ -2,44 +2,45 @@
 
 * THE API FOLDER CONTAINS ALL THE API FILES (BACKEND) IN NODEJS
 
-- Libraries Used:
- 
-  Express
 
-  Mysql
+ - Libraries Used:
+ 
+   Express
+
+   Mysql
   
-  jsonwebtoken
+   jsonwebtoken
   
-  express-fileupload
+   express-fileupload
   
-  cors
+   cors
   
-  body-parser
+   body-parser
 
 * AND THE FRONTEND FOLDER CONTAInS ALL THE CLIENT SIDE FILES IN REACT 
 
-- Libraries Used:
+ - Libraries Used:
   
-  react-router-dom
+   react-router-dom
   
-  react-dom
+   react-dom
   
-  react-redux
+   react-redux
   
-  @reduxjs/toolkit
+   @reduxjs/toolkit
   
-  redux-persist
+   redux-persist
   
-  FontAwesome
+   FontAwesome
   
-  axios
+   axios
   
-  react-boostrap
+   react-boostrap
   
-  react-select
+   react-select
   
-  antd
+   antd
   
-  react-data-table-component
+   react-data-table-component
 
 
