@@ -1,0 +1,9 @@
+{
+    "port": 3001,
+    "host": "localhost",
+    "user": "root",
+    "password": "",
+    "database": "localweb",
+    "jwt_secret": "yLyc2Yhuk4HEF1tjgVLQXXJcOSKxEo9dxpZEjN6CJyJzYB2fVfEUZd1tjgVLQXXJcOSKxEo9dxwXZdq5",
+    "jwt_expires": "1d"
+}
